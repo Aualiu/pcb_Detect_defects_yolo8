@@ -1,0 +1,5 @@
+path: D:/project1/DeepPCB-master/yolo
+train: images/train
+val: images/val
+nc: 6
+names: ['open', 'short', 'mousebite', 'spur', 'copper', 'pin-hole']
